@@ -10,6 +10,8 @@
 
 # Skills For Real Engineers
 
+> [![English](https://img.shields.io/badge/docs-English-blue)](./README.md) | [简体中文](./README.zh-CN.md)
+
 [![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)
 
 My agent skills that I use every day to do real engineering - not vibe coding.
